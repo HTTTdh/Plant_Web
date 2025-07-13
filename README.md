@@ -26,13 +26,6 @@ This project is a static website designed using Tailwind CSS, aimed at presentin
 - JavaScript (ES6)
 - [ScrollReveal.js](https://scrollrevealjs.org/) *(for scroll animations)*
 
-## 📸 Screenshots
-
-> You can add screenshots here by uploading images in a `/assets` folder and using:
->
-> ![Hero Section](assets/img/hero.png)
-> ![Product Section](assets/img/products.png)
-
 ## 🚀 Deployment
 
 This site can be hosted using any static hosting service such as:
